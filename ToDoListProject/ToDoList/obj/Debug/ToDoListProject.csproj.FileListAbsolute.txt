@@ -1,0 +1,11 @@
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\bin\Debug\ToDoListProject.exe.config
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\bin\Debug\ToDoListProject.exe
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\bin\Debug\ToDoListProject.pdb
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.Properties.Resources.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.exe
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.pdb
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.frmMain.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\ToDoListProject\obj\Debug\ToDoListProject.frmAddNew.resources
