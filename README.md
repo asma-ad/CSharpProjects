@@ -2,4 +2,6 @@
 
 Project #1: To-Do list.
  
-Project #2: Timer.
+Project #2: ClockApp.
+
+Project #3: 
