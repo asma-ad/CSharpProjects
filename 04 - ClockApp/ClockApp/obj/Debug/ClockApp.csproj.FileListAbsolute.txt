@@ -1,0 +1,15 @@
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\bin\Debug\ClockApp.exe.config
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\bin\Debug\ClockApp.exe
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\bin\Debug\ClockApp.pdb
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.csproj.AssemblyReference.cache
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.frmMain.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.Properties.Resources.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.TimeNow.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.csproj.GenerateResource.cache
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.exe
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.pdb
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.AlarmClock.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.WorldClock.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.StopWatch.resources
+C:\Users\a\Desktop\Projects\CSharpProjects\04 - TimerApp\ClockApp\obj\Debug\ClockApp.Timer.resources
